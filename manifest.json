@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "My Custom Shortcut",
+  "short_name": "My Shortcut",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "./icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "any"
+    }
+  ]
+}
